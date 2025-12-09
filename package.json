@@ -15,5 +15,13 @@
   },
   "dependencies": {
     "recover": "^2.0.0"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/atharvix/dog-me.git"
+},
+"homepage": "https://github.com/atharvix/dog-me#readme",
+"bugs": {
+  "url": "https://github.com/atharvix/dog-me/issues"
+}
 }
